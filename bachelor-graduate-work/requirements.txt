@@ -1,0 +1,14 @@
+networkx==1.11
+periodictable
+pandas
+numpy
+scipy
+math
+itertools
+collections
+timeit
+operator
+csv
+pickle
+scikit-learn
+os
